@@ -6,7 +6,7 @@ feeds for breaking news and curated information directly on
 WordPress websites.
 
 **Made for:** 
-The target users are website administrators and content managers 
+Made for website owners, administrators and content managers 
 who want to keep their audiences updated with continuous, 
 automated news feeds without manual content curation.
 
