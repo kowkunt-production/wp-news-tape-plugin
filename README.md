@@ -1,16 +1,21 @@
 # wp-news-tape-plugin
 
 **Purpose:** 
+
 The WP News Tape Plugin displays dynamic, ticker-style content 
 feeds for breaking news and curated information directly on 
 WordPress websites.
 
+
 **Made for:** 
+
 Made for website owners, administrators and content managers 
 who want to keep their audiences updated with continuous, 
 automated news feeds without manual content curation.
 
+
 **Key problem it is solves:** 
+
 It solves the problem of manual content curation by automatically 
 aggregating and displaying relevant, targeted news streams, 
 saving time while keeping site content fresh and engaging.
